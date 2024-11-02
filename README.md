@@ -3,6 +3,11 @@
 
 # GitHub Users and Repositories Data from Stockholm
 
+**Data Collection and Cleaning**
 - We collected GitHub data on Stockholm-based users with over 100 followers, using the GitHub API to retrieve user profiles and repository details.
+- Cleaned company names by removing symbols, job titles, and standardizing them to uppercase.
+- Converted date formats and filtered data for accuracy.
+
+**Analysis**
 - Analysis showed that Stockholm developers often contribute to repositories with multiple programming languages, highlighting a collaborative, multi-language approach.
 - To better engage this community, developers should focus on creating tools that support multilingual project collaboration and open-source development.
